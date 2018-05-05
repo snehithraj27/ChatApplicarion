@@ -1,0 +1,84 @@
+2018-03-04T23:41:57.347
+Chat Server is running
+A is connected
+B is connected
+Content:d,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:d
+Content:s,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:s
+Content:e,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:e
+Content:d,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:d
+Content:f,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:20
+From clientB:f
+Content:d,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:d
+Content:s,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:s
+Content:w,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:07
+From clientA:w
+C is connected
+Content:d,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:d
+Content:f,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:f
+Content:e,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:e
+Content:w,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:w
+Content:e,POST/localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:1,Date:2018-03-04 23:42:53
+From clientC:e
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+2018-03-04T23:44:39.817
+Chat Server is running
+2018-05-04T22:02:49.965
+Chat Server is running
+null is connected
+Content:null
+
+null is disconnected
+Chat Server is disconnected
+A is connected
+B is connected
+C is connected
+D is connected
+Content:hi,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-05-04 22:07:00
+From clientA:hi
+Content:how are you?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:12,Date:2018-05-04 22:07:00
+From clientA:how are you?
+Content:I am fine ,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-05-04 22:07:16
+From clientB:I am fine 
+Content:what aabout you?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:16,Date:2018-05-04 22:07:16
+From clientB:what aabout you?
+Content:hi,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-05-04 22:07:33
+From clientC:hi
+Content:hi,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-05-04 22:07:43
+From clientD:hi
+Content:hi,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:2,Date:2018-05-04 22:07:43
+From clientD:hi
+Content:what's up?,POST /localhost/server http/1.1,Host:127.0.0.1,User-Agent:Mozilla/5.0,Content-Type:text,Content-Length:10,Date:2018-05-04 22:07:33
+From clientC:what's up?
+Content:null
+
+A is disconnected
+Chat Server is disconnected
+Content:null
+
+B is disconnected
+Chat Server is disconnected
+Content:null
+
+C is disconnected
+Chat Server is disconnected
+Content:null
+
+D is disconnected
+Chat Server is disconnected
